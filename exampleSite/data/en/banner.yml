@@ -5,9 +5,9 @@ banner:
   bg_image: images/backgrounds/hero-area.jpg
   icon: ''
   title: AN NFT WITH A PURPOSE
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi.
-    At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!
+  content: Just a collection of 2,222 ghost-looking-condoms seeking to bring awareness
+    about safe sex on the Polygon Network. Check out our Discord!
   button:
     enable: true
-    label: Explore Us
-    link: "#services"
+    label: Join Our Discord
+    link: http://discord.gg/E2j62kdtCj
